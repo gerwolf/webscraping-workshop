@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 plotly_config.py
 genesis_config.py
+twitter_config.py
 __pycache__/
 *.py[cod]
 *$py.class
