@@ -2,6 +2,7 @@
 plotly_config.py
 genesis_config.py
 twitter_config.py
+mapbox_token.txt
 __pycache__/
 *.py[cod]
 *$py.class
