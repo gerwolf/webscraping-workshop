@@ -4,6 +4,7 @@ genesis_config.py
 twitter_config.py
 mapbox_token.txt
 participants.txt
+survey_experience.PNG
 __pycache__/
 *.py[cod]
 *$py.class
