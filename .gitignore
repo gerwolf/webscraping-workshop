@@ -5,6 +5,7 @@ twitter_config.py
 mapbox_token.txt
 participants.txt
 survey_experience.PNG
+Challenges.ipynb
 __pycache__/
 *.py[cod]
 *$py.class
